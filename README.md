@@ -9,6 +9,7 @@
 ![error](imges/image-1.png)
 
 ### 2 - Зайти на [сайт](chrome://extensions/)
+chrome://extensions/
 
 ### 3 - Включить режим разработчика в правом верхнем углу
 ![error](imges/image-2.png)
